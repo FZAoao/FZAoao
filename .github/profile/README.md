@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Aoao <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dragon.png" width="32" height="32"></h1>
+<h1 align="center">Hi, I'm Aoao 👋</h1>
 
 <p align="center">
   <b>Full-Stack Engineer · 全栈工程师</b><br>
-  <sub>Furry 控 · 兽设龙崽 · Sometimes I draw furry characters 🎨</sub>
+  <sub>Turning ideas into code, one commit at a time 💻</sub>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 **EN 🇬🇧**
 - Full-stack engineer — from database to pixel.
 - Building backends, APIs, web frontends and self-hosted services.
-- Furry artist on the side, with a dragon fursona.
+- Open-source tinkerer and self-hosting enthusiast.
 - Daily drivers: **VS Code** & **IntelliJ IDEA**.
 
 </td>
@@ -33,7 +33,7 @@
 **中文 🇨🇳**
 - 全栈工程师，从数据库到像素都能搞定。
 - 常做后端 API、前端界面和自建服务。
-- 业余画兽图，兽设是一只龙崽。
+- 喜欢折腾开源项目和自建服务。
 - 常用工具：**VS Code** 与 **IntelliJ IDEA**。
 
 </td>
@@ -85,4 +85,4 @@
   <a href="https://furr.date">🌍 furr.date</a>
 </p>
 
-<p align="center"><i>Code by day, draw by night ✨</i></p>
+<p align="center"><i>Happy coding ✨</i></p>
