@@ -70,7 +70,21 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FZAoao&hide_border=true&background=00000000" alt="FZAoao's streak" height="165">
+  <img src="https://streak-stats.demolab.com/?user=FZAoao&hide_border=true&background=00000000" alt="FZAoao's streak" height="165">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FZAoao" alt="FZAoao's summary stats" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FZAoao" alt="FZAoao's profile details" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FZAoao" alt="FZAoao's productive time" height="165">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FZAoao" alt="FZAoao's most committed languages" height="165">
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/FZAoao" alt="FZAoao's contribution chart">
 </p>
 
 ---
